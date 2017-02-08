@@ -1,0 +1,18 @@
+1486492927594	geckodriver	INFO	Listening on 127.0.0.1:1207
+1486492929185	mozprofile::profile	INFO	Using profile path C:\Users\HPAULA\AppData\Local\Temp\rust_mozprofile.AgR8Zm5dVcad
+1486492929210	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1486492929248	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1213
+1486492936197	Marionette	INFO	Listening on port 1213
+JavaScript warning: https://static.parastorage.com/services/santa/1.2108.3/js/vendor/mobx/3.5.8/mobx-react.min.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://static.parastorage.com/services/third-party/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://f.vimeocdn.com/p/2.49.0/js/player.js, line 13: String.prototype.contains() is deprecated and will be removed in a future release; use String.prototype.includes() instead
+JavaScript warning: https://f.vimeocdn.com/p/2.49.0/js/player.js, line 13: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1486493087028	geckodriver	INFO	Listening on 127.0.0.1:1281
+1486493089116	mozprofile::profile	INFO	Using profile path C:\Users\HPAULA\AppData\Local\Temp\rust_mozprofile.thzzfP1kQ2SZ
+1486493089171	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1486493089179	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1288
+1486493093001	Marionette	INFO	Listening on port 1288
+JavaScript warning: https://static.parastorage.com/services/santa/1.2108.3/js/vendor/mobx/3.5.8/mobx-react.min.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://static.parastorage.com/services/third-party/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://f.vimeocdn.com/p/2.49.0/js/player.js, line 13: String.prototype.contains() is deprecated and will be removed in a future release; use String.prototype.includes() instead
+JavaScript warning: https://f.vimeocdn.com/p/2.49.0/js/player.js, line 13: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
