@@ -1,4 +1,7 @@
+# Finding an element by Name
+
 from selenium import webdriver
+
 
 class FindByIdName():
 
@@ -6,6 +9,7 @@ class FindByIdName():
         baseUrl = "https://letskodeit.teachable.com/pages/practice"
         driver = webdriver.Firefox()
         driver.get(baseUrl)
+
         elementById = driver.find_element_by_id("name")
 
         if elementById is not None:

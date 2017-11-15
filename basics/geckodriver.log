@@ -16,3 +16,165 @@ JavaScript warning: https://static.parastorage.com/services/santa/1.2108.3/js/ve
 JavaScript warning: http://static.parastorage.com/services/third-party/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: https://f.vimeocdn.com/p/2.49.0/js/player.js, line 13: String.prototype.contains() is deprecated and will be removed in a future release; use String.prototype.includes() instead
 JavaScript warning: https://f.vimeocdn.com/p/2.49.0/js/player.js, line 13: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1510751991356	geckodriver	INFO	Listening on 127.0.0.1:59898
+1510751993429	mozprofile::profile	INFO	Using profile path C:\Users\627246\AppData\Local\Temp\rust_mozprofile.01SxcRE6z02k
+1510751993444	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1510751993502	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59907
+1510751994174	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9812] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9812] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4296] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4296] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+1510752028101	geckodriver	INFO	Listening on 127.0.0.1:59984
+1510752030214	mozprofile::profile	INFO	Using profile path C:\Users\627246\AppData\Local\Temp\rust_mozprofile.gREtijxHP1ry
+1510752030231	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1510752030274	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59992
+1510752031593	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\627246\AppData1510752036822	mozprofile::profile	INFO	Using profile path C:\Users\627246\AppData\Local\Temp\rust_mozprofile.WV3dgrh09rkQ
+1510752036832	geckodriver::marionette	INFO	Starting browser C:\Program Files\[GPU 8772] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9292] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9292] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5400] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12012] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3324] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510752452656	geckodriver	INFO	Listening on 127.0.0.1:60613
+1510752454816	mozprofile::profile	INFO	Using profile path C:\Users\627246\AppData\Local\Temp\rust_mozprofile.nbTRB3KS88ER
+1510752454831	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1510752454894	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60619
+1510752456588	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9260] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8560] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8560] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9260] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5496] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5496] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+1510752560844	geckodriver	INFO	Listening on 127.0.0.1:60749
+1510752562917	mozprofile::profile	INFO	Using profile path C:\Users\627246\AppData\Local\Temp\rust_mozprofile.USoRLvYjRM8t
+1510752562929	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1510752562974	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60755
+1510752563841	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7956] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 7956] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+1510752688930	geckodriver	INFO	Listening on 127.0.0.1:60858
+1510752690982	mozprofile::profile	INFO	Using profile path C:\Users\627246\AppData\Local\Temp\rust_mozprofile.iYX0qtgeDsY9
+1510752690995	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1510752691030	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60864
+1510752694914	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3760] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3580] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11080] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12252] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12252] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12252] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510753427143	geckodriver	INFO	geckodriver 0.19.1
+1510753427151	geckodriver	INFO	Listening on 127.0.0.1:61330
+1510753429551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\627246\\AppData\\Local\\Temp\\rust_mozprofile.D5sECYba1wV0"
+1510753431107	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510753432679	Marionette	INFO	Enabled via --marionette
+1510753440499	Marionette	INFO	Listening on port 61336
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7324] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7324] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510753440588	Marionette	INFO	Listening on port 61336
+1510753441190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510753441343	Marionette	DEBUG	loaded listener.js
+1510753441448	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510753442254	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510753442255	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510753442583	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.letskodeit.com/"
+1510753444794	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.letskodeit.com/"
+1510753444796	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.letskodeit.com/"
+1510753444798	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.letskodeit.com/"
+1510753445601	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://wix-instantsearchplus-ssl.akamaized.net/wix_widget/wix_instantsearchplus_widget-V3.html?cacheKiller=1510753444407&compId=comp-iiqf5u6e&deviceType=desktop&height=35&instance=igwue0F6volX1W5qhUfzbuJKr4BDn-8ZzwePNxAN9Qw.eyJpbnN0YW5jZUlkIjoiZDMzNWZjMGYtZjU3NC00NjhjLWEwZWUtOTFjYTEzMTljYWE2IiwiYXBwRGVmSWQiOiIxMzMyMmE3Yy02MDM5LWFjNTgtODZlOC00OGI3NmY5MDFkOTEiLCJzaWduRGF0ZSI6IjIwMTctMTEtMTVUMTM6NDQ6MDIuMTA3WiIsInVpZCI6bnVsbCwiaXBBbmRQb3J0IjoiMTc3LjY4LjE4OC4xNTYvNTQ5MjAiLCJ2ZW5kb3JQcm9kdWN0SWQiOm51bGwsImRlbW9Nb2RlIjpmYWxzZSwiYWlkIjoiMTI0ZjVjODItZjQwZS00YjU0LWIxYzgtMjhkNDdlMTQzMzU5Iiwic2l0ZU93bmVySWQiOiJmZWFiNDI2NS0wMmE5LTRhZjQtOTc1ZC01MWZlOGY1Mzk2N2MifQ&locale=en&pageId=mainPage&v=2.0.1&viewMode=site&vsi=9eb95181-4c1d-419c-a436-9af3f13cb145&width=200"
+1510753445604	Marionette	DEBUG	Received DOM event "pageshow" for "https://wix-instantsearchplus-ssl.akamaized.net/wix_widget/wix_instantsearchplus_widget-V3.html?cacheKiller=1510753444407&compId=comp-iiqf5u6e&deviceType=desktop&height=35&instance=igwue0F6volX1W5qhUfzbuJKr4BDn-8ZzwePNxAN9Qw.eyJpbnN0YW5jZUlkIjoiZDMzNWZjMGYtZjU3NC00NjhjLWEwZWUtOTFjYTEzMTljYWE2IiwiYXBwRGVmSWQiOiIxMzMyMmE3Yy02MDM5LWFjNTgtODZlOC00OGI3NmY5MDFkOTEiLCJzaWduRGF0ZSI6IjIwMTctMTEtMTVUMTM6NDQ6MDIuMTA3WiIsInVpZCI6bnVsbCwiaXBBbmRQb3J0IjoiMTc3LjY4LjE4OC4xNTYvNTQ5MjAiLCJ2ZW5kb3JQcm9kdWN0SWQiOm51bGwsImRlbW9Nb2RlIjpmYWxzZSwiYWlkIjoiMTI0ZjVjODItZjQwZS00YjU0LWIxYzgtMjhkNDdlMTQzMzU5Iiwic2l0ZU93bmVySWQiOiJmZWFiNDI2NS0wMmE5LTRhZjQtOTc1ZC01MWZlOGY1Mzk2N2MifQ&locale=en&pageId=mainPage&v=2.0.1&viewMode=site&vsi=9eb95181-4c1d-419c-a436-9af3f13cb145&width=200"
+1510753445868	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://player.vimeo.com/video/43893348?autoplay=true&loop=true&byline=false&portrait=false&title=false"
+1510753446156	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://player.vimeo.com/video/43893348?autoplay=true&loop=true&byline=false&portrait=false&title=false"
+1510753446160	Marionette	DEBUG	Received DOM event "pageshow" for "https://player.vimeo.com/video/43893348?autoplay=true&loop=true&byline=false&portrait=false&title=false"
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.parastorage.com/services/third-party/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510753446809	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://gs.wixapps.net/statics/index?cacheKiller=1510753444407&compId=ia7djgpn&deviceType=desktop&height=188&instance=SYQoizuRhOjRYVjrDRuyxCpMFalR2UrglguqXtccCL0.eyJpbnN0YW5jZUlkIjoiMTNkOTE0ODYtY2M5YS05YzRiLTNhNmYtM2EwYWE0NzgzNjU1IiwiYXBwRGVmSWQiOiIxMzc1YmFhOC04ZWNhLTU2NTktY2U5ZC00NTViMjAwOTI1MGQiLCJzaWduRGF0ZSI6IjIwMTctMTEtMTVUMTM6NDQ6MDIuMTA1WiIsInVpZCI6bnVsbCwiaXBBbmRQb3J0IjoiMTc3LjY4LjE4OC4xNTYvNTQ5MjAiLCJ2ZW5kb3JQcm9kdWN0SWQiOm51bGwsImRlbW9Nb2RlIjpmYWxzZSwiYWlkIjoiMTI0ZjVjODItZjQwZS00YjU0LWIxYzgtMjhkNDdlMTQzMzU5IiwiYmlUb2tlbiI6IjcxYzQ2Y2ZkLTExYjYtZGVjZC04ZTVhLWJmNDZhOTg5ZGI3MyIsInNpdGVPd25lcklkIjoiZmVhYjQyNjUtMDJhOS00YWY0LTk3NWQtNTFmZThmNTM5NjdjIn0&locale=en&pageId=mainPage&viewMode=site&vsi=9eb95181-4c1d-419c-a436-9af3f13cb145&width=350"
+1510753447181	Marionette	DEBUG	Received DOM event "pageshow" for "https://player.vimeo.com/video/43893348?autoplay=true&loop=true&byline=false&portrait=false&title=false"
+1510753447209	Marionette	DEBUG	Received DOM event "pageshow" for "https://gs.wixapps.net/statics/index?cacheKiller=1510753444407&compId=ia7djgpn&deviceType=desktop&height=188&instance=SYQoizuRhOjRYVjrDRuyxCpMFalR2UrglguqXtccCL0.eyJpbnN0YW5jZUlkIjoiMTNkOTE0ODYtY2M5YS05YzRiLTNhNmYtM2EwYWE0NzgzNjU1IiwiYXBwRGVmSWQiOiIxMzc1YmFhOC04ZWNhLTU2NTktY2U5ZC00NTViMjAwOTI1MGQiLCJzaWduRGF0ZSI6IjIwMTctMTEtMTVUMTM6NDQ6MDIuMTA1WiIsInVpZCI6bnVsbCwiaXBBbmRQb3J0IjoiMTc3LjY4LjE4OC4xNTYvNTQ5MjAiLCJ2ZW5kb3JQcm9kdWN0SWQiOm51bGwsImRlbW9Nb2RlIjpmYWxzZSwiYWlkIjoiMTI0ZjVjODItZjQwZS00YjU0LWIxYzgtMjhkNDdlMTQzMzU5IiwiYmlUb2tlbiI6IjcxYzQ2Y2ZkLTExYjYtZGVjZC04ZTVhLWJmNDZhOTg5ZGI3MyIsInNpdGVPd25lcklkIjoiZmVhYjQyNjUtMDJhOS00YWY0LTk3NWQtNTFmZThmNTM5NjdjIn0&locale=en&pageId=mainPage&viewMode=site&vsi=9eb95181-4c1d-419c-a436-9af3f13cb145&width=350"
+1510753447211	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.letskodeit.com/"
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7912] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 7912] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10172] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 10172] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10172] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 10172] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+1510754647083	geckodriver	INFO	geckodriver 0.19.1
+1510754647090	geckodriver	INFO	Listening on 127.0.0.1:61788
+1510754649909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\627246\\AppData\\Local\\Temp\\rust_mozprofile.9ijnn7kfSIxl"
+1510754651822	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510754653643	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12648] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510754662697	Marionette	INFO	Listening on port 61794
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6668] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6668] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510754662719	Marionette	INFO	Listening on port 61794
+1510754663587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510754663682	Marionette	DEBUG	loaded listener.js
+1510754663747	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510754664637	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510754664638	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510754665051	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.letskodeit.com/"
+1510754667020	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.letskodeit.com/"
+1510754667022	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.letskodeit.com/"
+1510754667023	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.letskodeit.com/"
+1510754667649	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://wix-instantsearchplus-ssl.akamaized.net/wix_widget/wix_instantsearchplus_widget-V3.html?cacheKiller=1510754666688&compId=comp-iiqf5u6e&deviceType=desktop&height=35&instance=0j4GWfEHjHAMf6Lzb8ERd9kQrITx1lMeGZbpAtRmBKc.eyJpbnN0YW5jZUlkIjoiZDMzNWZjMGYtZjU3NC00NjhjLWEwZWUtOTFjYTEzMTljYWE2IiwiYXBwRGVmSWQiOiIxMzMyMmE3Yy02MDM5LWFjNTgtODZlOC00OGI3NmY5MDFkOTEiLCJzaWduRGF0ZSI6IjIwMTctMTEtMTVUMTQ6MDQ6MjQuNTYwWiIsInVpZCI6bnVsbCwiaXBBbmRQb3J0IjoiMTc3LjY4LjE4OC4xNTYvMzc1OTYiLCJ2ZW5kb3JQcm9kdWN0SWQiOm51bGwsImRlbW9Nb2RlIjpmYWxzZSwiYWlkIjoiMmFiNTUyMWYtY2VkNS00ODFkLTk3NTgtNmY5YWUyODRkYzFlIiwic2l0ZU93bmVySWQiOiJmZWFiNDI2NS0wMmE5LTRhZjQtOTc1ZC01MWZlOGY1Mzk2N2MifQ&locale=en&pageId=mainPage&v=2.0.1&viewMode=site&vsi=0f635b1f-f5f4-407d-b088-8d086012494b&width=200"
+1510754667652	Marionette	DEBUG	Received DOM event "pageshow" for "https://wix-instantsearchplus-ssl.akamaized.net/wix_widget/wix_instantsearchplus_widget-V3.html?cacheKiller=1510754666688&compId=comp-iiqf5u6e&deviceType=desktop&height=35&instance=0j4GWfEHjHAMf6Lzb8ERd9kQrITx1lMeGZbpAtRmBKc.eyJpbnN0YW5jZUlkIjoiZDMzNWZjMGYtZjU3NC00NjhjLWEwZWUtOTFjYTEzMTljYWE2IiwiYXBwRGVmSWQiOiIxMzMyMmE3Yy02MDM5LWFjNTgtODZlOC00OGI3NmY5MDFkOTEiLCJzaWduRGF0ZSI6IjIwMTctMTEtMTVUMTQ6MDQ6MjQuNTYwWiIsInVpZCI6bnVsbCwiaXBBbmRQb3J0IjoiMTc3LjY4LjE4OC4xNTYvMzc1OTYiLCJ2ZW5kb3JQcm9kdWN0SWQiOm51bGwsImRlbW9Nb2RlIjpmYWxzZSwiYWlkIjoiMmFiNTUyMWYtY2VkNS00ODFkLTk3NTgtNmY5YWUyODRkYzFlIiwic2l0ZU93bmVySWQiOiJmZWFiNDI2NS0wMmE5LTRhZjQtOTc1ZC01MWZlOGY1Mzk2N2MifQ&locale=en&pageId=mainPage&v=2.0.1&viewMode=site&vsi=0f635b1f-f5f4-407d-b088-8d086012494b&width=200"
+1510754667788	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://player.vimeo.com/video/43893348?autoplay=true&loop=true&byline=false&portrait=false&title=false"
+1510754668041	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://player.vimeo.com/video/43893348?autoplay=true&loop=true&byline=false&portrait=false&title=false"
+1510754668043	Marionette	DEBUG	Received DOM event "pageshow" for "https://player.vimeo.com/video/43893348?autoplay=true&loop=true&byline=false&portrait=false&title=false"
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.parastorage.com/services/third-party/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510754668371	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://gs.wixapps.net/statics/index?cacheKiller=1510754666688&compId=ia7djgpn&deviceType=desktop&height=188&instance=B8yxxMZC_DmGSVftbcCOpTKavU8RgTz1vk3ilppQHtI.eyJpbnN0YW5jZUlkIjoiMTNkOTE0ODYtY2M5YS05YzRiLTNhNmYtM2EwYWE0NzgzNjU1IiwiYXBwRGVmSWQiOiIxMzc1YmFhOC04ZWNhLTU2NTktY2U5ZC00NTViMjAwOTI1MGQiLCJzaWduRGF0ZSI6IjIwMTctMTEtMTVUMTQ6MDQ6MjQuNTU3WiIsInVpZCI6bnVsbCwiaXBBbmRQb3J0IjoiMTc3LjY4LjE4OC4xNTYvMzc1OTYiLCJ2ZW5kb3JQcm9kdWN0SWQiOm51bGwsImRlbW9Nb2RlIjpmYWxzZSwiYWlkIjoiMmFiNTUyMWYtY2VkNS00ODFkLTk3NTgtNmY5YWUyODRkYzFlIiwiYmlUb2tlbiI6IjcxYzQ2Y2ZkLTExYjYtZGVjZC04ZTVhLWJmNDZhOTg5ZGI3MyIsInNpdGVPd25lcklkIjoiZmVhYjQyNjUtMDJhOS00YWY0LTk3NWQtNTFmZThmNTM5NjdjIn0&locale=en&pageId=mainPage&viewMode=site&vsi=0f635b1f-f5f4-407d-b088-8d086012494b&width=350"
+1510754668658	Marionette	DEBUG	Received DOM event "pageshow" for "https://player.vimeo.com/video/43893348?autoplay=true&loop=true&byline=false&portrait=false&title=false"
+1510754669136	Marionette	DEBUG	Received DOM event "pageshow" for "https://gs.wixapps.net/statics/index?cacheKiller=1510754666688&compId=ia7djgpn&deviceType=desktop&height=188&instance=B8yxxMZC_DmGSVftbcCOpTKavU8RgTz1vk3ilppQHtI.eyJpbnN0YW5jZUlkIjoiMTNkOTE0ODYtY2M5YS05YzRiLTNhNmYtM2EwYWE0NzgzNjU1IiwiYXBwRGVmSWQiOiIxMzc1YmFhOC04ZWNhLTU2NTktY2U5ZC00NTViMjAwOTI1MGQiLCJzaWduRGF0ZSI6IjIwMTctMTEtMTVUMTQ6MDQ6MjQuNTU3WiIsInVpZCI6bnVsbCwiaXBBbmRQb3J0IjoiMTc3LjY4LjE4OC4xNTYvMzc1OTYiLCJ2ZW5kb3JQcm9kdWN0SWQiOm51bGwsImRlbW9Nb2RlIjpmYWxzZSwiYWlkIjoiMmFiNTUyMWYtY2VkNS00ODFkLTk3NTgtNmY5YWUyODRkYzFlIiwiYmlUb2tlbiI6IjcxYzQ2Y2ZkLTExYjYtZGVjZC04ZTVhLWJmNDZhOTg5ZGI3MyIsInNpdGVPd25lcklkIjoiZmVhYjQyNjUtMDJhOS00YWY0LTk3NWQtNTFmZThmNTM5NjdjIn0&locale=en&pageId=mainPage&viewMode=site&vsi=0f635b1f-f5f4-407d-b088-8d086012494b&width=350"
+1510754669138	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.letskodeit.com/"
+[GPU 12648] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\627246\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11424] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1692] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 1692] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 1692] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1692] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
