@@ -6,8 +6,10 @@ from selenium import webdriver
 class FindByIdName():
 
     def test(self):
-        baseUrl = "https://letskodeit.teachable.com/pages/practice"
-        driver = webdriver.Firefox()
+        baseUrl = "https://learn.letskodeit.com/p/practice"
+        driver = webdriver.Firefox(
+            executable_path="C:\\Python\\Drivers\\Gecko\\geckodriver-v0.26.0-win32\\geckodriver.exe")
+        driver.set_window_size(600, 500)
         driver.get(baseUrl)
 
         elementById = driver.find_element_by_id("name")
@@ -19,6 +21,8 @@ class FindByIdName():
 
         if elementByName is not None:
             print("We found an element by Name")
+
+        driver.close()
 
 ff = FindByIdName()
 ff.test()

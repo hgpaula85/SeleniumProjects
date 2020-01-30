@@ -6,8 +6,10 @@ from selenium import webdriver
 class RunFFTests:
 
     def test(self):
-        # Instantiate FF browser command
-        driver = webdriver.Firefox()
+        # Initiate driver instance
+        driver = webdriver.Firefox(
+            executable_path="C:\\Python\\Drivers\\Gecko\\geckodriver-v0.26.0-win32\\geckodriver.exe")
+
         # Open the provided URL
         driver.get("http://www.letskodeit.com")
 

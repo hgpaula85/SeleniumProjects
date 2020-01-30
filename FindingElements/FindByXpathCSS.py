@@ -6,8 +6,10 @@ from selenium import webdriver
 class FindByXpathCSS():
 
     def test(self):
-        baseUrl = "https://letskodeit.teachable.com/pages/practice"
-        driver = webdriver.Firefox()
+        baseUrl = "https://learn.letskodeit.com/p/practice"
+        driver = webdriver.Firefox(
+            executable_path="C:\\Python\\Drivers\\Gecko\\geckodriver-v0.26.0-win32\\geckodriver.exe")
+        driver.set_window_size(600, 500)
         driver.get(baseUrl)
 
         elementByXpath = driver.find_element_by_xpath(".//*[@id='carselect']")

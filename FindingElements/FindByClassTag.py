@@ -6,8 +6,10 @@ from selenium import webdriver
 class FindByClassTag():
 
     def find(self):
-        baseUrl = "https://letskodeit.teachable.com/pages/practice"
-        driver = webdriver.Firefox()
+        baseUrl = "https://learn.letskodeit.com/p/practice"
+        driver = webdriver.Firefox(
+            executable_path="C:\\Python\\Drivers\\Gecko\\geckodriver-v0.26.0-win32\\geckodriver.exe")
+        driver.set_window_size(600, 500)
         driver.get(baseUrl)
 
         elementByClass = driver.find_element_by_class_name("displayed-class")
